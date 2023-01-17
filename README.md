@@ -1,9 +1,9 @@
 <h1 align="center">🚀 Let's shape the future with Linkspreed 🧡</h1>
-<h3 align="center">Find our Social Media Posts in this Github Repository! 📱</h3>
+<h3 align="center">Get all Linkspreed platforms & projects in this Github Repository! 📱</h3>
 
-## Our Social Media Marketing log :)
+## Find all Linkspreed platforms & projects in alphabetical order! ✨
 
-## Stay up to date with our official social media announcements ...
+## Check out the entire list ... (**135 projects**)
 
  - https://adseasy.tk
  - https://airr.tk
