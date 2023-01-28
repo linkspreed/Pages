@@ -62,6 +62,7 @@
  - https://linklab.ga
  - https://lsily.tk
  - https://lsnews.cf
+ - https://mailspread.cf
  - https://mapsli.tk
  - https://memevid.tk
  - https://metabox.ga
