@@ -53,6 +53,7 @@
  - https://analytics.linkspreed.com
  - https://drive.linkspreed.com
  - https://helpdesk.linkspreed.com
+ - https://mails.linkspreed.com
  - https://panel.linkspreed.com
  - https://photos.linkspreed.com
  - https://play.linkspreed.com
