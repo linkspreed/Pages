@@ -60,6 +60,7 @@
  - https://store.linkspreed.com
  - https://storpad.tk
  - https://web.linkspreed.com
+ - https://web4.linkspreed.com
  - https://linklab.ga
  - https://lsily.tk
  - https://lsnews.cf
