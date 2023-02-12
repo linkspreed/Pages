@@ -31,6 +31,7 @@
  - https://deepage.tk
  - https://discounty.tk
  - https://diskit.tk
+ - https://dnserver.cf
  - https://downflix.cf
  - https://dreambuild.tk
  - https://firelaps.cf
