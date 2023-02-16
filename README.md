@@ -35,6 +35,7 @@
  - https://downflix.cf
  - https://dreambuild.tk
  - https://firelaps.cf
+ - https://flipx.tk
  - https://forju.tk
  - https://getpro.gq
  - https://gogola.ga
